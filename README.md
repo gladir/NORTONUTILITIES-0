@@ -20,7 +20,7 @@ Voici la liste des différents fichiers proposés dans Corail :
 		</tr>
 		<tr>
 			<td><b>TS.PAS</b></td>
-			<td>Cette commande permet de rechercher une chaine de caractères dans des fichiers. Cette commande est un équivalent du Norton Utilities.</td>
+			<td>Cette commande permet de rechercher une chaine de caractères dans des fichiers.</td>
 		</tr>
 		<tr>
 			<td><b>WIPEINFO.PAS</b></td>
