@@ -19,6 +19,10 @@ Voici la liste des différents fichiers proposés dans Corail :
 			<td>Cette commande permet de lancer l'interpréteur de commande NDOS. Il s'agit d'un équivalent du NDOS du Norton Utilities.</td>
 		</tr>
 		<tr>
+			<td><b>TS.PAS</b></td>
+			<td>Cette commande permet de rechercher une chaine de caractères dans des fichiers. Cette commande est un équivalent du Norton Utilities.</td>
+		</tr>
+		<tr>
 			<td><b>WIPEINFO.PAS</b></td>
 			<td>Cette commande permet d'effacer totalement les données et le fichier.</td>
 		</tr>
