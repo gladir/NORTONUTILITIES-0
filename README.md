@@ -15,6 +15,10 @@ Voici la liste des différents fichiers proposés dans NORTONUTILITIES-0 :
 			<td>Cette commande permet de lancer une commande étendu pour les fichiers de traitements par lots. Cette commande est inspiré de la commande BE de Norton Utilities.</td>
 		</tr>
 		<tr>
+			<td><b>FA.PAS</b></td>
+			<td>Cette commande permet de demander ou de changer les attributs d'un fichier. Cette commande est équivalent de la commande FA des utilitaires Norton Utilities.</td>
+		</tr>
+		<tr>
 			<td><b>FS.PAS</b></td>
 			<td>Cette commande permet d'afficher la taille d'un ou plusieurs fichiers. Cette commande est inspiré de la commande FS de Norton Utilities.</td>
 		</tr>	
