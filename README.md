@@ -16,7 +16,7 @@ Voici la liste des différents fichiers proposés dans NORTONUTILITIES-0 :
 		</tr>
 		<tr>
 			<td><b>FA.PAS</b></td>
-			<td>Cette commande permet de demander ou de changer les attributs d'un fichier. Cette commande est équivalent de la commande FA des utilitaires Norton Utilities.</td>
+			<td>Cette commande permet de demander ou de changer les attributs d'un fichier.</td>
 		</tr>
 		<tr>
 			<td><b>FS.PAS</b></td>
